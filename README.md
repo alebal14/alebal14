@@ -11,7 +11,7 @@ Hi, I'm Alexandra! I'm a passionate developer with a knack for creating efficien
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/silentBob](https://www.linkedin.com/in/alexandra-balogh-a28512b9/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alexandra-balogh-a28512b9).
 
 ## 🛠️ Tools I Use
 
