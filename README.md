@@ -1,5 +1,5 @@
 ## About Me 😄
-Hi, I'm Alexandra! I'm a self-taught .NET Developer currently working at Clas Ohlson. My journey in tech has taken me from front-end freelancing to back-end development with C# and Azure. I'm passionate about solving problems and building cloud-based solutions.
+Hi, I'm Alexandra! I'm a .NET Developer currently working at Clas Ohlson. My journey in tech has taken me from front-end freelancing to back-end development with C# and Azure. I'm passionate about solving problems and building cloud-based solutions.
 
 - 🔭 I'm currently working with **C#**, **.NET Core**, and **Azure** technologies
 - 🌱 I'm building my GitHub portfolio with new projects (watch this space!)
